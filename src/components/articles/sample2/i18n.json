@@ -1,0 +1,35 @@
+{
+  "en": {
+    "title": "Sample2Articles",
+    "articleList": {
+      "article1": {
+        "title": "sample2 article1",
+        "list": [
+          "list 1 list 1 list 1 list 1 list 1 ",
+          "list 2 list 2 list 2 list 2 list 2 list 2 ",
+          "list 3 list 3 list 3 list 3 list 3"
+        ]
+      },
+      "article2": {
+        "title": "sample2 article2",
+        "list": [
+          "list 1 list 1 list 1 list 1 list 1 ",
+          "list 2 list 2 list 2 list 2 list 2 list 2 ",
+          "list 3 list 3 list 3 list 3 list 3"
+        ]
+      }
+    }
+  },
+  "zh": {
+    "title": "Sample2Articles",
+    "articleList": {
+      "article1": {
+        "title": "sample2 文章1",
+        "list": [
+          "文章段落 1 文章段落 1 文章段落 1 文章段落 1 文章段落 1 ",
+          "文章段落 2 文章段落 2 文章段落 2 文章段落 2 文章段落 2 文章段落 2 "
+        ]
+      }
+    }
+  }
+}
